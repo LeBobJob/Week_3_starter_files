@@ -1,0 +1,61 @@
+/* line 26, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+#monochrome .chip {
+  width: 4rem;
+  height: 4rem;
+  border: 1px solid black;
+  display: inline-block;
+  background: #696; }
+  /* line 32, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #monochrome .chip:nth-of-type(2) {
+    background: #c2d6c2; }
+  /* line 35, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #monochrome .chip:nth-of-type(3) {
+    background: #3d5c3d; }
+  /* line 38, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #monochrome .chip:nth-of-type(4) {
+    background: #4db34d; }
+  /* line 41, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #monochrome .chip:nth-of-type(5) {
+    background: #94d194; }
+
+/* line 48, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+#analogous .chip {
+  width: 4rem;
+  height: 4rem;
+  border: 1px solid black;
+  display: inline-block;
+  background: #966; }
+  /* line 54, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #analogous .chip:nth-of-type(2) {
+    background: #d6c2c2; }
+  /* line 57, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #analogous .chip:nth-of-type(3) {
+    background: #5c3d3d; }
+  /* line 60, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #analogous .chip:nth-of-type(4) {
+    background: #b3a24d; }
+  /* line 63, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #analogous .chip:nth-of-type(5) {
+    background: #d65c99; }
+
+/* line 70, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+#complimentary .chip {
+  width: 4rem;
+  height: 4rem;
+  border: 1px solid black;
+  display: inline-block;
+  background: #336; }
+  /* line 76, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #complimentary .chip:nth-of-type(2) {
+    background: #7777bb; }
+  /* line 79, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #complimentary .chip:nth-of-type(3) {
+    background: #111122; }
+  /* line 82, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #complimentary .chip:nth-of-type(4) {
+    background: #757524; }
+  /* line 85, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style.scss */
+  #complimentary .chip:nth-of-type(5) {
+    background: #b1b11b; }
+
+/*# sourceMappingURL=style.css.map */

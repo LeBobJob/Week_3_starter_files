@@ -1,0 +1,28 @@
+/* line 10, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style2.scss */
+#content {
+  width: 30rem;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1em 0;
+  font: 16px Helvetica, sans-serif;
+  color: #191;
+  background: #336; }
+
+/* line 20, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style2.scss */
+h1 {
+  font-size: 48px; }
+
+/* line 24, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style2.scss */
+.icon {
+  font-size: 48px;
+  line-height: 64px;
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  background: yellow; }
+
+/* line 34, /Users/rls15/Desktop/classexamples-399/Week_3_starter_files/style2.scss */
+p {
+  font-size: 16px; }
+
+/*# sourceMappingURL=style2.css.map */
